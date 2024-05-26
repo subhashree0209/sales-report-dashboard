@@ -1,15 +1,15 @@
 # Product sales report dashboard
-Data visualisation dashboard created in PowerBI to visualise product sales report of company. </br ></br >
+Data visualization dashboard created in PowerBI to visualize product sales report of client's company. </br ></br >
  
 ### Business Request Overview
 Business problem: Need for improvement of internet sales reports by moving from static reports to visual dashboards, with a focus on highlighting how much of each products has been sold over time and to which clients.
 
-Value of change: Visual dashboards for improved sales reporting or follow up for salesforce
+Value of change: Visual dashboards for improved sales reporting or follow-up for salesforce
 
 Necessary systems: PowerBI, CRM System, Microsoft SQL Server, Docker, Azure Data Studio
 
-User acceptance criteria for dashboard:
-- Updates data in real time
+User acceptance criteria for the dashboard:
+- Updates data in real-time
 - Allows data filtering by customer
 - Allows data filtering by products
 - Encompasses graphs and KPIs to compare product revenue against budget</br ></br >
